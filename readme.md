@@ -1,6 +1,8 @@
 # Notes for Project 10 Hold Shift and Check Checkboxes
 
-# New methods/ functions:
+## [Javascript30 Website](https://javascript30.com/)
+
+## New methods/ functions:
 ```javascript
 event.checked
 event.shiftKey
